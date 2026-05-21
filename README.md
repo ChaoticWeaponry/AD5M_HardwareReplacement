@@ -12,6 +12,8 @@ Main Hardware changes in this guide:
 -Stock Toolhead board replaced with a MellowFly SB2040 Pro Max V3  
 -Stock PSU replaced with a Meanwell LRS 450  
 -Stock Display replaced with a BTT Touch HDMI5 v1.2  
+-Stock Hotend replaced with a X1/X1C hotend (I used Microswiss)  
+
   
 Basic parts needed:  
 
