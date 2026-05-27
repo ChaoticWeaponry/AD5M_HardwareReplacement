@@ -2,7 +2,7 @@
 A project for the Flashforge Adventurer 5M concerning complete electronic hardware replacement.
 
 > [!WARNING]  
-> There are no warranties after you embark on this project. You must be adept in soldering and wiring.
+> There are no warranties after you embark on this project. You must be adept in soldering and wiring.  
 > PLEASE READ ALL READMES AND UNDERSTAND WHAT YOU'RE DOING BEFORE YOU START PURCHASING ITEMS OR MODIFYING YOUR PRINTER  
 
 
