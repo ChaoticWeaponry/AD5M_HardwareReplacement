@@ -3,16 +3,18 @@ A project for the Flashforge Adventurer 5M concerning complete electronic hardwa
 
 > [!WARNING]  
 > There are no warranties after you embark on this project. You must be adept in soldering and wiring.
+> PLEASE READ ALL READMES AND UNDERSTAND WHAT YOU'RE DOING BEFORE YOU START PURCHASING ITEMS OR MODIFYING YOUR PRINTER  
+
 
 A Dremel (or similar) will be required to modify various plastic bits in the rear housing of the printer to accomodate the extra components.
 
 Main Hardware changes in this guide:  
 
--Stock Mainboard replaced with a Manta M8P V2.0  
--Stock Toolhead board replaced with a MellowFly SB2040 Pro Max V3  
--Stock PSU replaced with a Meanwell LRS 450  
--Stock Display replaced with a BTT Touch HDMI5 v1.2  
--Stock Hotend replaced with a X1/X1C hotend (I used Microswiss)  
+-Stock Mainboard replaced with a Manta M8P V2.0 [From Amazon](https://a.co/d/01iEh6Rq)  
+-Stock Toolhead board replaced with a MellowFly SB2040 Pro Max V3 [From AliExpress](https://www.aliexpress.us/item/3256806597664801.html)  
+-Stock PSU replaced with a Meanwell LRS 450 [From Amazon](https://a.co/d/0aqzs9kM)  
+-Stock Display replaced with a BTT Touch HDMI5 v1.2 [From Amazon](https://a.co/d/09CFqlyS)  
+-Stock Hotend replaced with a X1/X1C hotend (I used Microswiss) [From Amazon](https://a.co/d/0eQoXAdD)  
 
   
 Basic parts needed:  
