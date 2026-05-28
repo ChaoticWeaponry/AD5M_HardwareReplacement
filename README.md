@@ -1,5 +1,6 @@
 # AD5M Complete Hardware Replacement
 A project for the Flashforge Adventurer 5M concerning complete electronic hardware replacement.  
+
 **Special thanks to FaqT0tum for inspiring the ideas for these mods.**  
 
 > [!WARNING]  
