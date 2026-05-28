@@ -24,6 +24,7 @@ A Dremel (or similar) will be required to modify various plastic bits in the rea
 -M3 thread inserts  
 -Various M3 screws (coarse/plastic thread)  
 -Various M2 screws (coarse/plastic thread)  
+-Various JST XH, PH and MX connectors/pins (MX for the part-fan)  
 -12, 16, 18, 22 and 24 gauge wiring (longest lengths will be 18 and 24 gauge for the toolhead harness)  
 -A LOT of a robust filament that can handle stress and heat (I used PETG-CF)  
 
