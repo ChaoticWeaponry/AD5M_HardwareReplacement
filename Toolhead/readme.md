@@ -6,6 +6,8 @@ Specific Parts Needed
 -A right angle 2 pin JST-XH connector for the hotend connection.  
 -A set of '2x2' Molex Microfit 3.0 connectors (buy a couple so you have extras) [From Amazon](https://a.co/d/008s7Y0V)  
 -A set of 9x9x12 Stick on Heatsinks for the Motor Driver [From Amazon](https://a.co/d/09exRvM4)  
+-A 30x15mm 24v fan, 2 wire.  
+
 
 > [!NOTE]
 > Make sure you purchase the correct Molex Microfit 3.0 pins, a lot of listings support 20-24 gauge wiring, you must purchase 18 gauge specific pins for the power connections.
