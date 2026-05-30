@@ -41,4 +41,10 @@ I would strongly recommend upgrading the SB2040's included driver heatsink, I us
 <img src="Photos/toolhead-threadinserts.jpg" alt="Toolhead Thread Inserts" width="800">  
 <img src="Photos/toolhead-filamenthole.jpg" alt="Toolhead Filament Hole" width="800">  
 
-**Toolhead Cap:**  
+**Toolhead MR Sensors:**  
+<img src="Photos/mr-sensor-wiring.jpg" alt="MR Sensor Wiring" width="400"> <img src="Photos/sm453r-pinout.jpg" alt="MR Sensor Pinout" width="400">  
+
+> [!NOTE]
+> When inserting the MR sensors into the toolhead cap, make sure they are completely bottomed out. Only epoxy the areas surrounding the MR sensor to hold it in place. Epoxy should not contact the sensing faces.  
+
+<img src="Photos/mr-sensor-mockup.jpg" alt="MR Sensor Mockup" width="400"> <img src="Photos/mr-sensor-epoxy.jpg" alt="MR Sensor Epoxy" width="400">  
