@@ -36,3 +36,9 @@ The XT30 power connector, side pin header for the secondary board, thermistor co
 
 I would strongly recommend upgrading the SB2040's included driver heatsink, I used a 'stick-on' 9x9x12mm heatsink and potted it to assist with vibration resistance. I added a small heatsink to the Raspberry Pi controller as well.  
 <img src="Photos/sb2040-heatsinks.jpg" alt="SB2040 Heatsinks" width="800">  
+
+**Toolhead Body:**  
+<img src="Photos/toolhead-threadinserts.jpg" alt="Toolhead Thread Inserts" width="800">  
+<img src="Photos/toolhead-filamenthole.jpg" alt="Toolhead Filament Hole" width="800">  
+
+**Toolhead Cap:**  
