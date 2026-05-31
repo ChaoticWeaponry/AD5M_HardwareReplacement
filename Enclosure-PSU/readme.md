@@ -3,6 +3,7 @@
 **Parts Needed:**  
 -8x 12x3mm magnets for the enclosure top.  
 -6x 36mm M4 screws screws for the back housing/cover assembly.  
+-3ft/1m HDMI to Micro HDMI & USB-A to USB-C cables for the display.  
 
 
 I have included an STL for the replacement front cover for the Meanwell LRS-450 adding support for a 92mm fan. The stock fan runs at 12v.  
@@ -21,3 +22,4 @@ The screen itself is pressure fit into the front cover, then you slide the front
 The LRS-450 shares the same mount as the LRS-350 (and the original power supply), so no modifications are needed on the mount holes themselves.  
 The entire shroud for the top enclosure fan will need to be cut flush (or close to flush) for the new board to fit.  
 A lot of this will be trial and error, test fit, remove more material, test fit again, etc.  
+
