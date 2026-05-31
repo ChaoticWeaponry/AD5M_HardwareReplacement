@@ -21,7 +21,7 @@ A Dremel (or similar) will be required to modify various plastic bits in the rea
 -Stock Hotend replaced with a X1/X1C hotend (I used Microswiss) [From Amazon](https://a.co/d/0eQoXAdD)  
 
   
-**Basic parts needed:**  
+**Generic parts needed:**  
 
 -Various M3 screws/nuts (machine thread)  
 -M3 thread inserts  
