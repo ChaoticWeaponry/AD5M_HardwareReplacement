@@ -9,7 +9,7 @@
 
 
 I have included an STL for the replacement front cover for the Meanwell LRS-450 adding support for a 92mm fan. The stock fan runs at 12v.  
-**I will not be including instructions or pictures for modification of the PSU for liability reasons.**  
+**I will not be including instructions or pictures for modification of the PSU for liability reasons. Please be careful.**  
 
 For the overall enclosure for the printer, just use the original Flashforge enclosure kit minus the top. The parts included in the guide are for the top cover and the rear cover (with extensions). The rear covers and extensions will add roughly 40mm of depth to your printer.  
 
