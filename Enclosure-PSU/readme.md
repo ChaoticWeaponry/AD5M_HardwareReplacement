@@ -23,3 +23,8 @@ The LRS-450 shares the same mount as the LRS-350 (and the original power supply)
 The entire shroud for the top enclosure fan will need to be cut flush (or close to flush) for the new board to fit.  
 A lot of this will be trial and error, test fit, remove more material, test fit again, etc.  
 
+**Top Housing:**  
+I have no in-progress shots while making this, but it should be pretty self-explanatory. Print the parts, place on a large, level surface, glue together with your choice of adhesive. I generally glue the magnets into the slots after the top is glued into one piece.  
+There are 2 spots for M3 thread inserts for the screen mount, make sure these are slightly recessed so the screen housing can mount flush to the top assembly. The USB and HDMI cables should slot nicely into the groove in the right side of the top assembly.  
+
+<img src="Photos/startup-test.jpg" alt="Startup Test" width="800">  
