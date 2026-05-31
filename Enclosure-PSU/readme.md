@@ -28,3 +28,10 @@ I have no in-progress shots while making this, but it should be pretty self-expl
 There are 2 spots for M3 thread inserts for the screen mount, make sure these are slightly recessed so the screen housing can mount flush to the top assembly. The USB and HDMI cables should slot nicely into the groove in the right side of the top assembly.  
 
 <img src="Photos/startup-test.jpg" alt="Startup Test" width="800">  
+
+**Rear Extensions and Cover:**  
+The rear extension pieces are pressure fit into each other, I placed double sided tape on the inside edge, then used the M4 screws to align the extension pieces. This will allow you to install/remove the rear cover without struggling to line multiple things up.  
+The top-left extension piece has a groove cut into it to allow the USB and HDMI cables from the screen to pass through.  
+
+The rear covers are held together with 8 total M3x10 coarse thread screws. They have tabs in the corners to help line the assemblies up.  
+<img src="Photos/rear-printer-backpanel-installed.jpg" alt="Back Cover Installed" width="800">  
