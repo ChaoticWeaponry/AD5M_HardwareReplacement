@@ -4,6 +4,8 @@
 -8x 12x3mm magnets for the enclosure top.  
 -6x 36mm M4 screws screws for the back housing/cover assembly.  
 -3ft/1m HDMI to Micro HDMI & USB-A to USB-C cables for the display.  
+-2x 40mm 12v Fans for enclosure ventilation.  
+
 
 
 I have included an STL for the replacement front cover for the Meanwell LRS-450 adding support for a 92mm fan. The stock fan runs at 12v.  
