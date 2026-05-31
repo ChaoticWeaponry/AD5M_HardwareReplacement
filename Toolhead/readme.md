@@ -1,6 +1,6 @@
 # Toolhead Section  
 
-**Document of Schematics/Installation/Configuration** [Fly Wiki](https://mellow.klipper.cn/en/docs/category/fly-sb2040-v3)  
+**Document of Schematics/Installation/Configuration** [Fly Wiki](https://mellow.klipper.cn/en/docs/category/fly-sb2040-pro-v3)  
 
 Specific Parts Needed  
 
