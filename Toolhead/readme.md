@@ -56,5 +56,7 @@ I would strongly recommend upgrading the SB2040's included driver heatsink, I us
 
 <img src="Photos/mr-sensor-mockup.jpg" alt="MR Sensor Mockup" width="400"> <img src="Photos/mr-sensor-epoxy.jpg" alt="MR Sensor Epoxy" width="400">  
 
-The MR sensors will be sharing a 5v pin from the 3pin endstop connector. The Y endstop sensor will utilize the 3pin endstop connector, the X endstop sensor will utilize the 2pin endstop sonnector.  
+The MR sensors will be ***sharing a 5v pin*** from the 3pin endstop connector. The Y endstop sensor will utilize the 3pin endstop connector, the X endstop sensor will utilize the 2pin endstop sonnector.  
+<img src="Photos/mr-sensor-connectors.jpg" alt="MR Sensor Connectors" width="800">  
+
 
