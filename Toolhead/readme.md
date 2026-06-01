@@ -10,6 +10,7 @@ Specific Parts Needed
 -A set of 9x9x12 Stick on Heatsinks for the Motor Driver [From Amazon](https://a.co/d/09exRvM4)  
 -A 30x15mm 24v fan, 2 wire.  
 -A straight 2 pin JST-XH connector for the hotend thermistor (you need to change the X1 thermistor connector to JST-XH)  
+-Some 1/4" PET braided sleeving to protect the wiring harness [From Amazon](https://a.co/d/0aQ7BoMF)  
 
 
 > [!NOTE]
@@ -63,6 +64,10 @@ The MR sensors will be ***sharing a 5v pin*** from the 3pin endstop connector. T
 **Original Extruder Modifications:**  
 You will need to cut off the original 30x10 fan mounts from the stock extruder and remove the top tabs that hold the original fan wiring. This will make the top flush and give more room around the extruder.  
 
+**Toolhead Harness:**  
+I intentionally made my harness extremely long so I could shorten later. My harness was a little over 1 meter long when completed.  
+It will be 2x 18gauge power wires and 2x 24 gauge CAN wires. Make sure you twist the 24 gauge wires to avoid interference.  
+I used a braided PET sleeve to cover and protect the wires from chafing. Heat shrink over the end of the sleeving near the toolhead connector (where the clamp is).  
 
 **Toolhead Assembly Order:**  
 
@@ -72,5 +77,15 @@ You will need to cut off the original 30x10 fan mounts from the stock extruder a
 4: Install extruder motor to the toolhead assembly, route wiring through the rectangular hole.  
 5: Install extruder assembly and tighten the 3 screws.  
 6: Install printed part "board mount" that is located just above the extruder. You may wish to use M2 coarse screws to clamp in place, they are recommended but not absolutely neccessary.  
+<img src="Photos/toolhead-lower2.jpg" alt="Toolhead Lower" width="400">  
 7: Install SB2040 board using 2 coarse M3 screws. Plug in hotend heater connection.  
+8: Install the toolhead cap, plug in the MR sensors, then fiddle with the connectors to get them routed correctly. The 2x2 4pin Molex Microfit main connection exits the cap on the top rectangular hole. The 4 other connectors should route to the front and 'clip' in place.  
+<img src="Photos/toolhead-final-assembly2.jpg" alt="Toolhead Final Assembly" width="400">  
+9: Install front connector cover over the 4 different JST connections. Install the extruder guide (slide over the top of the extruder, it has a slot to interface correctly).  
+<img src="Photos/toolhead-final-assembly3.jpg" alt="Toolhead Final Assembly" width="400">  
+10: Plug in extruder motor, hotend fan and hotend thermistor connections.  
+11: Install printed part "partfan gap filler" to part fan assembly, it should be a snug fit.  
+12: Install part fan to toolhead assembly, route wiring so it doesn't get pinched. Secure with M3x16 coarse screws.  
+13: Install/connect main wiring harness to toolhead, attach strain relief connection and tighten screws with the wiring in the correct location.  
+<img src="Photos/toolhead-wire-strainrelief.jpg" alt="Toolhead Wiring Strain Relief" width="400"><img src="Photos/toolhead-wire-strainrelief2.jpg" alt="Toolhead Wiring Strain Relief" width="400">  
 
