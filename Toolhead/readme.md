@@ -88,4 +88,6 @@ I used a braided PET sleeve to cover and protect the wires from chafing. Heat sh
 12: Install part fan to toolhead assembly, route wiring so it doesn't get pinched. Secure with M3x16 coarse screws.  
 13: Install/connect main wiring harness to toolhead, attach strain relief connection and tighten screws with the wiring in the correct location.  
 <img src="Photos/toolhead-wire-strainrelief.jpg" alt="Toolhead Wiring Strain Relief" width="400"><img src="Photos/toolhead-wire-strainrelief2.jpg" alt="Toolhead Wiring Strain Relief" width="400">  
-
+14: Install printed part "molex housing" with 3 M3x8 coarse screws, the Molex Microfit housing should have the release tab facing the center of the toolhead cap, it will only install one way.  
+<img src="Photos/toolhead-complete3.jpg" alt="Toolhead Complete" width="800">  
+The main assembly should be complete, route wiring harness through your drag chain assembly and back to the grommet on the printer.  
