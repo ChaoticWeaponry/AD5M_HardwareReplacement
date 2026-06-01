@@ -9,6 +9,7 @@ Specific Parts Needed
 -A set of '2x2' Molex Microfit 3.0 connectors (buy a couple so you have extras) [From Amazon](https://a.co/d/008s7Y0V)  
 -A set of 9x9x12 Stick on Heatsinks for the Motor Driver [From Amazon](https://a.co/d/09exRvM4)  
 -A 30x15mm 24v fan, 2 wire.  
+-A straight 2 pin JST-XH connector for the hotend thermistor (you need to change the X1 thermistor connector to JST-XH)  
 
 
 > [!NOTE]
@@ -56,7 +57,20 @@ I would strongly recommend upgrading the SB2040's included driver heatsink, I us
 
 <img src="Photos/mr-sensor-mockup.jpg" alt="MR Sensor Mockup" width="400"> <img src="Photos/mr-sensor-epoxy.jpg" alt="MR Sensor Epoxy" width="400">  
 
-The MR sensors will be ***sharing a 5v pin*** from the 3pin endstop connector. The Y endstop sensor will utilize the 3pin endstop connector, the X endstop sensor will utilize the 2pin endstop sonnector.  
+The MR sensors will be ***sharing a 5v pin*** from the 3pin endstop connector. The Y endstop sensor will utilize the 3pin endstop connector, the X endstop sensor will utilize the 2pin endstop connector.  
 <img src="Photos/mr-sensor-connectors.jpg" alt="MR Sensor Connectors" width="800">  
 
+**Original Extruder Modifications:**  
+You will need to cut off the original 30x10 fan mounts from the stock extruder and remove the top tabs that hold the original fan wiring. This will make the top flush and give more room around the extruder.  
+
+
+**Toolhead Assembly Order:**  
+
+1: Toolhead body prep, insert heat-set inserts and hex nuts for the hotend.  
+2: Install hotend. Apply blue threadlocker to the M3 screws. I make sure the hotend is bottomed out while torquing the screws.  
+3: Install 30x15 hotend fan, intake from the outside blowing air toward the hotend.  
+4: Install extruder motor to the toolhead assembly, route wiring through the rectangular hole.  
+5: Install extruder assembly and tighten the 3 screws.  
+6: Install printed part "board mount" that is located just above the extruder. You may wish to use M2 coarse screws to clamp in place, they are recommended but not absolutely neccessary.  
+7: Install SB2040 board using 2 coarse M3 screws. Plug in hotend heater connection.  
 
