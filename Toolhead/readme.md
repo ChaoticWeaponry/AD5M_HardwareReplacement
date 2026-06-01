@@ -55,3 +55,6 @@ I would strongly recommend upgrading the SB2040's included driver heatsink, I us
 > In my case, it was easiest to trim the leads to ~1/2 the original length, solder the wires, heatshrink the connections, then bend everything to a 90 degree angle. The rounded face of the sensor should face the bottom.  
 
 <img src="Photos/mr-sensor-mockup.jpg" alt="MR Sensor Mockup" width="400"> <img src="Photos/mr-sensor-epoxy.jpg" alt="MR Sensor Epoxy" width="400">  
+
+The MR sensors will be sharing a 5v pin from the 3pin endstop connector. The Y endstop sensor will utilize the 3pin endstop connector, the X endstop sensor will utilize the 2pin endstop sonnector.  
+
