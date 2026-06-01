@@ -71,7 +71,7 @@ I used a braided PET sleeve to cover and protect the wires from chafing. Heat sh
 
 **Toolhead Assembly Order:**  
 
-1: Toolhead body prep, insert heat-set inserts and hex nuts for the hotend.  
+1: Toolhead body prep, insert heat-set inserts and hex nuts for the hotend. Drill out 'tube' between extruder and hotend with a tiny drill bit.  
 2: Install hotend. Apply blue threadlocker to the M3 screws. I make sure the hotend is bottomed out while torquing the screws.  
 3: Install 30x15 hotend fan, intake from the outside blowing air toward the hotend.  
 4: Install extruder motor to the toolhead assembly, route wiring through the rectangular hole.  
