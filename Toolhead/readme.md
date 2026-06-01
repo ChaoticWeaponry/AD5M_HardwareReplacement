@@ -65,7 +65,7 @@ The MR sensors will be ***sharing a 5v pin*** from the 3pin endstop connector. T
 You will need to cut off the original 30x10 fan mounts from the stock extruder and remove the top tabs that hold the original fan wiring. This will make the top flush and give more room around the extruder.  
 
 **Toolhead Harness:**  
-I intentionally made my harness extremely long so I could shorten later. My harness was a little over 1 meter long when completed.  
+I intentionally made my harness long so I could shorten later. My harness was a little over 1 meter long when completed.  
 It will be 2x 18gauge power wires and 2x 24 gauge CAN wires. Make sure you twist the 24 gauge wires to avoid interference.  
 I used a braided PET sleeve to cover and protect the wires from chafing. Heat shrink over the end of the sleeving near the toolhead connector (where the clamp is).  
 
