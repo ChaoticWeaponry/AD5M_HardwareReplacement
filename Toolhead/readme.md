@@ -66,7 +66,7 @@ You will need to cut off the original 30x10 fan mounts from the stock extruder a
 
 **Toolhead Harness:**  
 I intentionally made my harness long so I could shorten later. My harness was a little over 1 meter long when completed.  
-It will be 2x 18gauge power wires and 2x 24 gauge CAN wires. Make sure you twist the 24 gauge wires to avoid interference.  
+It will be 2x 18 gauge power wires and 2x 24 gauge CAN wires. Make sure you twist the 24 gauge wires to avoid interference.  
 I used a braided PET sleeve to cover and protect the wires from chafing. Heat shrink over the end of the sleeving near the toolhead connector (where the clamp is).  
 
 **Toolhead Assembly Order:**  
