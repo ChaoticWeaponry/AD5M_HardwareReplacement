@@ -18,3 +18,12 @@ Follow the pinouts of the respective external MOSFET that you purchase, they sho
 
 
 **Bed Electrical Connection:**  
+<img src="Photos/m8p-accessory-pinouts.jpg" alt="Bed Electrical Connections" width="800">  
+
+Above includes the pinouts for the FPC ribbon cable for the bed, as well as the pinouts for the Z-endstop and filament runout sensors.  
+
+<img src="Photos/heated-bed-wiring.jpg" alt="Heated Bed Wiring" width="800">  
+
+Above shows the wiring that I created to adapt to the FPC ribbon. Each one of the heater wires starts as a 22 gauge wire, these are then divided into groups of 5 and 6 and crimped into 2 separate 16 gauge wires. The two 16 gauge wires are crimped into a single 12 gauge wire.  
+
+So for *EACH* pole of the heater, there will be 11x 22 gauge wires spliced into 2x 16 gauge wires spliced into 1x 12 gauge wire.  
