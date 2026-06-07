@@ -54,7 +54,7 @@ I would strongly recommend upgrading the SB2040's included driver heatsink, I us
 > [!NOTE]
 > When inserting the MR sensors into the toolhead cap, make sure they are completely bottomed out, the top of the sensor (opposite of the leads) is inserted first, the holes should be a snug fit. Only epoxy the areas surrounding the MR sensor to hold it in place. Epoxy ***should not*** contact the sensing faces.
 > 
-> In my case, it was easiest to trim the leads to ~1/2 the original length, solder the wires, heatshrink the connections, then bend everything to a 90 degree angle. The rounded face of the sensor should face the bottom.  
+> In my case, it was easiest to trim the leads to ~1/2 the original length, solder the wires, heatshrink the connections, then bend everything to a 90 degree angle. The rounded face of the sensor should face the bottom on the Y endstop, towards the front on the X endstop.  
 
 <img src="Photos/mr-sensor-mockup.jpg" alt="MR Sensor Mockup" width="400"> <img src="Photos/mr-sensor-epoxy.jpg" alt="MR Sensor Epoxy" width="400">  
 
