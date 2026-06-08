@@ -34,4 +34,4 @@ A Dremel (or similar) will be required to modify various plastic bits in the rea
 > [!NOTE]
 > **Section or part specific parts will be listed in their respective sections.**  
 
-**Please feel free to reach out if something doesn't make sense or specfic details are missing, I tried to be thorough with the write-up, but it has taken a long time.**  
+**Please feel free to reach out if something doesn't make sense or specific details are missing, I tried to be thorough with the write-up, but it has taken a long time.**  
