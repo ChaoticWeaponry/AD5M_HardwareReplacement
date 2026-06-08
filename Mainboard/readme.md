@@ -57,3 +57,5 @@ You can re-use the stock X, Y and Z stepper motor wiring, the pinouts do not cha
 <img src="Photos/rear-printer-mockup.jpg" alt="Rear Printer Mockup" width="1000">  
 
 <img src="Photos/rear-printer-complete.jpg" alt="Rear Printer Complete" width="1000">  
+
+<img src="Photos/rear-printer-complete-withtop.jpg" alt="Rear Printer Complete With Top" width="1000">  
