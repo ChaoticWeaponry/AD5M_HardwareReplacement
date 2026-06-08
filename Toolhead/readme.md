@@ -68,6 +68,9 @@ The MR sensors will be ***sharing a 5v pin*** from the 3pin endstop connector. T
 **Original Extruder Modifications:**  
 You will need to cut off the original 30x10 fan mounts from the stock extruder and remove the top tabs that hold the original fan wiring. This will make the top flush and give more room around the extruder.  
 
+**Toolhead Cap:**  
+The printed part of the toolhead cap has 2 'shields' built into it to prevent supports from building on the MR sensor areas.  
+
 **Toolhead Harness:**  
 I intentionally made my harness long so I could shorten later. My harness was a little over 1 meter long when completed.  
 It will be 2x 18 gauge power wires and 2x 24 gauge CAN wires. Make sure you twist the 24 gauge wires to avoid interference.  
@@ -95,3 +98,8 @@ I used a braided PET sleeve to cover and protect the wires from chafing. Heat sh
 14: Install printed part "molex housing" with 3 M3x8 coarse screws, the Molex Microfit housing should have the release tab facing the center of the toolhead cap, it will only install one way.  
 <img src="Photos/toolhead-complete3.jpg" alt="Toolhead Complete" width="800">  
 The main assembly should be complete, route wiring harness through your drag chain assembly and back to the grommet on the printer.  
+
+>[!NOTE]
+>You may need to adjust the endstop position on the X/Y axes.
+>For X axis: Home the printer, move the head to +/- 100 and measure between the edge of the toolhead cap and the frame, compare side to side. Adjust the X endstop position until distance from toolhead to frame is the same.  
+>For Y axis: Home the printer, slowly move the toolhead until the cap is 1-2mm from contacting the front edge of the frame. Adjust the Y endstop position until you can reach 110 and have a very small gap between the toolhead cap and the front frame.
