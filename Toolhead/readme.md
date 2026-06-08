@@ -102,6 +102,9 @@ The main assembly should be complete, route wiring harness through your drag cha
 >[!NOTE]
 >You may need to adjust the endstop position on the X/Y axes. This may vary depending on magnets or sensor sensitivity.  
 >
->For X axis: Home the printer, move the head to +/- 100 and measure between the edge of the toolhead cap and the frame, compare side to side. Adjust the X endstop position until distance from toolhead to frame is the same.
+>
+>For X axis: Home the printer, move the head to +/- 100 and measure between the edge of the toolhead cap and the frame, compare side to side. Adjust the X endstop position until distance from toolhead to frame is the same side to side.  
+>**Example:** edge of toolhead to frame at position 100 is 17mm, edge of toolhead to frame at position -100 is 13mm would mean the endstop position in the configuration would have to change by 2mm to make both measurements 15mm.  
+>
 >
 >For Y axis: Home the printer, slowly move the toolhead until the cap is 1-2mm from contacting the front edge of the frame. Adjust the Y endstop position until you can reach -110 and have a very small gap between the toolhead cap and the front frame.
