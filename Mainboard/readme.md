@@ -38,3 +38,13 @@ So for *EACH* pole of the heater, there will be 11x 22 gauge wires spliced into 
 The chamber fans that I used (40mm Noctua) and all of the other fans are 12v, so you will need to select the voltages for the fans using their respective jumpers. Follow the manual for the mainboard.  
 
 For the chamber fans, I used 2 pin JST-XH to 4 pin fan adapters, so you will lose PWM control and tachometer. Voltage control will still work to control fan speeds.  
+
+You can re-use the stock X, Y and Z stepper motor wiring, the pinouts do not change.  
+
+**Assembly Order:**  
+1: Attech MOSFET bracket to mainboard bracket (2x M3 coarse screws)  
+2: Attach FPC ribbon PCB to mainboard bracket (2x M3 coarse screws)  
+3: Secure mainboard bracket assembly to the printer back housing (4x M3 coarse screws)  
+4: Connect bed ribbon to FPC connector  
+5: Secure M8P mainboard to mainboard bracket (4x M3 coarse screws)  
+6: Connect all wiring (tweezers will come in handy grabbing the wires on the left edge of the mainboard, space is limited)  
