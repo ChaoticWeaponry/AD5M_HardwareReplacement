@@ -49,4 +49,6 @@ You can re-use the stock X, Y and Z stepper motor wiring, the pinouts do not cha
 5: Secure M8P mainboard to mainboard bracket (4x M3 coarse screws)  
 6: Connect all wiring (tweezers will come in handy grabbing the wires on the left edge of the mainboard, space is limited)  
 
+<img src="Photos/rear-printer-mockup.jpg" alt="Rear Printer Mockup" width="1000">  
+
 <img src="Photos/rear-printer-complete.jpg" alt="Rear Printer Complete" width="1000">  
