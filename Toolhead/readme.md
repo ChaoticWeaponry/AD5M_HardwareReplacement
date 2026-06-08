@@ -45,7 +45,7 @@ I would strongly recommend upgrading the SB2040's included driver heatsink, I us
 <img src="Photos/sb2040-heatsinks.jpg" alt="SB2040 Heatsinks" width="800">  
 
 **Part Fan:**  
-<img src="Photos/part-fan-mk5-supports.jpg" alt="Part Fan Supports" width="800">  
+<img src="Photos/part-fan-mk5-supports.png" alt="Part Fan Supports" width="800">  
 Make sure you use support painting on the part fan, above is a general guideline for where the supports should be.  
 
 **Toolhead Body:**  
