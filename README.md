@@ -32,4 +32,6 @@ A Dremel (or similar) will be required to modify various plastic bits in the rea
 -A LOT of a robust filament that can handle stress and heat (I used PETG-CF)  
 
 > [!NOTE]
-> **Section or part specific parts will be listed in their respective sections.**
+> **Section or part specific parts will be listed in their respective sections.**  
+
+**Please feel free to reach out if something doesn't make sense or specfic details are missing, I tried to be thorough with the write-up, but it has taken a long time.**  
