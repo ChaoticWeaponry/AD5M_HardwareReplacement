@@ -30,3 +30,11 @@ So for *EACH* pole of the heater, there will be 11x 22 gauge wires spliced into 
 
 **M8P Diagram:**  
 <img src="Photos/m8p.jpg" alt="M8P Diagram" width="1000">  
+
+>[!NOTE]
+>I did not use the filament sensor during my conversion of the printer. You should be able to wire it to any of the endstop connections and configure in your printer configuration.  
+>You may elect to add additional thermistors since there are extra slots with the Manta M8P, I used thermistors on all of my stepper motors and added a chamber temperature themistor as well.
+
+The chamber fans that I used (40mm Noctua) and all of the other fans are 12v, so you will need to select the voltages for the fans using their respective jumpers. Follow the manual for the mainboard.  
+
+For the chamber fans, I used 2 pin JST-XH to 4 pin fan adapters, so you will lose PWM control and tachometer. Voltage control will still work to control fan speeds.  
