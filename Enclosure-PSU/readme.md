@@ -4,7 +4,9 @@
 -8x 12x3mm magnets for the enclosure top.  
 -6x 36mm M4 screws screws for the back housing/cover assembly.  
 -3ft/1m HDMI to Micro HDMI & USB-A to USB-C cables for the display.  
--2x 40mm 12v Fans for enclosure ventilation.  
+-2x 40mm 12v fans for enclosure ventilation.  
+-2x 60mm 12v fans for X/Y stepper motor cooling.  
+
 
 
 
